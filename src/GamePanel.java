@@ -5,8 +5,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.Random;d
-
-dsfsdfs
+4
 public class GamePanel extends JPanel implements ActionListener {
 
     static final int SCREEN_WIDTH = 600;
